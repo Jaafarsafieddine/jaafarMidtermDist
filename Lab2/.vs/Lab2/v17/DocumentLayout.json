@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|c:\\users\\jaafa\\source\\repos\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|C:\\Users\\jaafa\\source\\repos\\Lab2\\lab2\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|C:\\Users\\jaafa\\source\\repos\\Lab2\\lab2\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|C:\\Users\\jaafa\\source\\repos\\Lab2\\lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|C:\\Users\\jaafa\\source\\repos\\Lab2\\lab2\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|C:\\Users\\jaafa\\source\\repos\\Lab2\\lab2\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|C:\\Users\\jaafa\\source\\repos\\Lab2\\lab2\\branchadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C8098A-57DD-4107-9228-BD510CD63D7D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\branchadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "personalinfo.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\personalinfo.cs",
+              "RelativeDocumentMoniker": "Lab2\\personalinfo.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\personalinfo.cs",
+              "RelativeToolTip": "Lab2\\personalinfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:50:33.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "branch.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\branch.cs",
+              "RelativeDocumentMoniker": "Lab2\\branch.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\branch.cs",
+              "RelativeToolTip": "Lab2\\branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:50:06.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:47:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Lab2\\XMLFile1.xml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\XMLFile1.xml",
+              "RelativeToolTip": "Lab2\\XMLFile1.xml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-01T06:51:00.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "branchAdress.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\branchAdress.cs",
+              "RelativeDocumentMoniker": "Lab2\\branchAdress.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\branchAdress.cs",
+              "RelativeToolTip": "Lab2\\branchAdress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:49:35.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "faculty.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\faculty.cs",
+              "RelativeDocumentMoniker": "Lab2\\faculty.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\faculty.cs",
+              "RelativeToolTip": "Lab2\\faculty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:49:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\Student.cs",
+              "RelativeDocumentMoniker": "Lab2\\Student.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Lab2\\Lab2\\Student.cs",
+              "RelativeToolTip": "Lab2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T06:48:18.791Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

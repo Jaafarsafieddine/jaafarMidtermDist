@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|c:\\users\\jaafa\\source\\repos\\mvc\\mvc\\models\\addtocartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4081E-7CF9-4E8C-8185-B8872DBFCFCE}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\addtocartdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T19:59:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "MVC\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:49:50.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:46:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddToCartDetails.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\AddToCartDetails.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\AddToCartDetails.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\AddToCartDetails.cs",
+              "RelativeToolTip": "MVC\\Models\\AddToCartDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:41:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\category.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\category.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\category.cs",
+              "RelativeToolTip": "MVC\\Models\\category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:40:34.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\Purchase.cs",
+              "RelativeToolTip": "MVC\\Models\\Purchase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:38:28.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToCart.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\AddToCart.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\AddToCart.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\AddToCart.cs",
+              "RelativeToolTip": "MVC\\Models\\AddToCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:36:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MVC\\MVC\\Models\\Car.cs",
+              "RelativeToolTip": "MVC\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:35:28.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

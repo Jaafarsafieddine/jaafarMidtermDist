@@ -1,0 +1,17 @@
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\bin\Debug\net8.0\Advanced_lab1.exe
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\bin\Debug\net8.0\Advanced_lab1.deps.json
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\bin\Debug\net8.0\Advanced_lab1.runtimeconfig.json
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\bin\Debug\net8.0\Advanced_lab1.dll
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\bin\Debug\net8.0\Advanced_lab1.pdb
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.csproj.AssemblyReference.cache
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.AssemblyInfoInputs.cache
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.AssemblyInfo.cs
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced.BBD5B091.Up2Date
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.dll
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\refint\Advanced_lab1.dll
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.pdb
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\Advanced_lab1.genruntimeconfig.cache
+C:\Users\jaafa\source\repos\Advanced_lab1\Advanced_lab1\obj\Debug\net8.0\ref\Advanced_lab1.dll

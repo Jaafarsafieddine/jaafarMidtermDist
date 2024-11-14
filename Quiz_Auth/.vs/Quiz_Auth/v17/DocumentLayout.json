@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|c:\\users\\jaafa\\source\\repos\\quiz_auth\\quiz_auth\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\quiz_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E370E616-6156-4E75-BF41-510BA6F0C0EE}|Quiz_Auth\\Quiz_Auth.csproj|solutionrelative:quiz_auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Quiz_Auth\\Views\\Books\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T06:21:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Quiz_Auth\\Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T06:21:35.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Quiz_Auth\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:05:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Quiz_Auth\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:04:48.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Models\\Category.cs",
+              "RelativeToolTip": "Quiz_Auth\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:48:51.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Models\\Book.cs",
+              "RelativeToolTip": "Quiz_Auth\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:48:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz_Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\Program.cs",
+              "RelativeToolTip": "Quiz_Auth\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:19:23.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\appsettings.json",
+              "RelativeDocumentMoniker": "Quiz_Auth\\appsettings.json",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Quiz_Auth\\Quiz_Auth\\appsettings.json",
+              "RelativeToolTip": "Quiz_Auth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T05:18:03.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

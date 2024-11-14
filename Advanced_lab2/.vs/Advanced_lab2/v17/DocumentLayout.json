@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\branchadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\branchadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|c:\\users\\jaafa\\source\\repos\\advanced_lab2\\advanced_lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFB7B07-B252-4706-B623-CD77275A0704}|Advanced_lab2\\Advanced_lab2.csproj|solutionrelative:advanced_lab2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "branch.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\branch.cs",
+              "RelativeDocumentMoniker": "Advanced_lab2\\branch.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\branch.cs",
+              "RelativeToolTip": "Advanced_lab2\\branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:05:36.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personalinfo.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\personalinfo.cs",
+              "RelativeDocumentMoniker": "Advanced_lab2\\personalinfo.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\personalinfo.cs",
+              "RelativeToolTip": "Advanced_lab2\\personalinfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:55:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "Advanced_lab2\\XMLFile1.xml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\XMLFile1.xml",
+              "RelativeToolTip": "Advanced_lab2\\XMLFile1.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-02-23T08:47:34.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Advanced_lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\Program.cs",
+              "RelativeToolTip": "Advanced_lab2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:07:58.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "branchAdress.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\branchAdress.cs",
+              "RelativeDocumentMoniker": "Advanced_lab2\\branchAdress.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\branchAdress.cs",
+              "RelativeToolTip": "Advanced_lab2\\branchAdress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:06:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "faculty.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\faculty.cs",
+              "RelativeDocumentMoniker": "Advanced_lab2\\faculty.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\faculty.cs",
+              "RelativeToolTip": "Advanced_lab2\\faculty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:00:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\Student.cs",
+              "RelativeDocumentMoniker": "Advanced_lab2\\Student.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\Advanced_lab2\\Advanced_lab2\\Student.cs",
+              "RelativeToolTip": "Advanced_lab2\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:54:08.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizlearning\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|c:\\users\\jaafa\\source\\repos\\quizlearning\\quizlearning\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizlearning\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizlearning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizlearning\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizlearning\\migrations\\20240425201011_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizlearning\\migrations\\20240425201011_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\20240425201011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD49D2E4-AA3E-4C6F-9521-AAE7F20B372D}|quizLearning\\quizLearning.csproj|solutionrelative:quizLearning\\Migrations\\20240425201011_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240425201011_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\20240425201011_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "quizLearning\\Migrations\\20240425201011_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\20240425201011_InitialCreate.Designer.cs",
+              "RelativeToolTip": "quizLearning\\Migrations\\20240425201011_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:39:16.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\appsettings.json",
+              "RelativeDocumentMoniker": "quizLearning\\appsettings.json",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\appsettings.json",
+              "RelativeToolTip": "quizLearning\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-25T20:27:23.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Program.cs",
+              "RelativeDocumentMoniker": "quizLearning\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Program.cs",
+              "RelativeToolTip": "quizLearning\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:15:41.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240425201011_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\20240425201011_InitialCreate.cs",
+              "RelativeDocumentMoniker": "quizLearning\\Migrations\\20240425201011_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\20240425201011_InitialCreate.cs",
+              "RelativeToolTip": "quizLearning\\Migrations\\20240425201011_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:10:11.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\DBcontext.cs",
+              "RelativeDocumentMoniker": "quizLearning\\DBcontext.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\DBcontext.cs",
+              "RelativeToolTip": "quizLearning\\DBcontext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:54:26.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "quizLearning\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "quizLearning\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:39:34.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "quizLearning\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Models\\Car.cs",
+              "RelativeToolTip": "quizLearning\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:01:50.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "quizLearning\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\quizLearning\\quizLearning\\Models\\Person.cs",
+              "RelativeToolTip": "quizLearning\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:55:59.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

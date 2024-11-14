@@ -1,0 +1,16 @@
+C:\Users\jaafa\source\repos\demoGui\demoGui\bin\Debug\net8.0-windows\demoGui.exe
+C:\Users\jaafa\source\repos\demoGui\demoGui\bin\Debug\net8.0-windows\demoGui.deps.json
+C:\Users\jaafa\source\repos\demoGui\demoGui\bin\Debug\net8.0-windows\demoGui.runtimeconfig.json
+C:\Users\jaafa\source\repos\demoGui\demoGui\bin\Debug\net8.0-windows\demoGui.dll
+C:\Users\jaafa\source\repos\demoGui\demoGui\bin\Debug\net8.0-windows\demoGui.pdb
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.Form1.resources
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.csproj.GenerateResource.cache
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.AssemblyInfoInputs.cache
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.AssemblyInfo.cs
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.dll
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\refint\demoGui.dll
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.pdb
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\demoGui.genruntimeconfig.cache
+C:\Users\jaafa\source\repos\demoGui\demoGui\obj\Debug\net8.0-windows\ref\demoGui.dll

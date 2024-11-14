@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|c:\\users\\jaafa\\source\\repos\\mvctrying\\mvctrying\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9FA4C9C-9513-4193-BAEC-D6A0A72A8D63}|MvcTrying\\MvcTrying.csproj|solutionrelative:mvctrying\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "MvcTrying\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "MvcTrying\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T06:27:13.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MvcTrying\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MvcTrying\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:21:21.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcTrying\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcTrying\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T06:06:59.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Program.cs",
+              "RelativeDocumentMoniker": "MvcTrying\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Program.cs",
+              "RelativeToolTip": "MvcTrying\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:01:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcTrying\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcTrying\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T06:01:19.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcTrying\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcTrying\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T06:01:06.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcTrying\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\MvcTrying\\MvcTrying\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcTrying\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:58:13.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

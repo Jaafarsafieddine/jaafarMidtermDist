@@ -1,0 +1,14 @@
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\bin\Debug\net8.0\lab3_Advanced2.exe
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\bin\Debug\net8.0\lab3_Advanced2.deps.json
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\bin\Debug\net8.0\lab3_Advanced2.runtimeconfig.json
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\bin\Debug\net8.0\lab3_Advanced2.dll
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\bin\Debug\net8.0\lab3_Advanced2.pdb
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.AssemblyInfoInputs.cache
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.AssemblyInfo.cs
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.csproj.CoreCompileInputs.cache
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.dll
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\refint\lab3_Advanced2.dll
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.pdb
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\lab3_Advanced2.genruntimeconfig.cache
+C:\Users\jaafa\source\repos\lab3_Advanced2\lab3_Advanced2\obj\Debug\net8.0\ref\lab3_Advanced2.dll

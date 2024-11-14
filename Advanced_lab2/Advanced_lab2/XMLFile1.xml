@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Student StudentId="202010234">
+		<firstname>Marc</firstname>
+		<lastname>Bou Issa</lastname>
+		<personalAddress number="5">
+			<streetName>Sanawbar Street</streetName>
+			<city>Naameh</city>
+		</personalAddress>
+		<faculty facultyId="3">Engineering</faculty>
+		<branch>
+			<branchId>1</branchId>
+			<branchName>Baabda Campus</branchName>
+			<branchAdress number="1">
+				<streetName>grande avenue</streetName>
+				<city>baabda</city>
+			</branchAdress>
+		</branch>
+	</Student>
+	<Student StudentId="202010235">
+		<firstname>Lisa</firstname>
+		<lastname>Bou Issa</lastname>
+		<personalAddress number="5">
+			<streetName>Sanawbar Street</streetName>
+			<city>Naameh</city>
+		</personalAddress>
+		<faculty facultyId="3">Engineering</faculty>
+		<branch>
+			<branchId>1</branchId>
+			<branchName>Baabda Campus</branchName>
+			<branchAdress number="1">
+				<streetName>grande avenue</streetName>
+				<city>baabda</city>
+			</branchAdress>
+		</branch>
+	</Student>
+</ArrayOfStudent>

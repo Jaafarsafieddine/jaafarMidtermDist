@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\quizdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|solutionrelative:quizdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|c:\\users\\jaafa\\source\\repos\\quizdotnet\\quizdotnet\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|solutionrelative:quizdotnet\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\quizdotnet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|solutionrelative:quizdotnet\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\quizdotnet\\migrations\\20240425232641_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|solutionrelative:quizdotnet\\migrations\\20240425232641_testing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\quizdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE809580-08C8-4F61-A344-8F3C79EEC26F}|QuizDotNet\\QuizDotNet.csproj|solutionrelative:quizdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "QuizDotNet\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "RelativeToolTip": "QuizDotNet\\Migrations\\AppDBcontextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:51:16.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizDotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\appsettings.json",
+              "RelativeToolTip": "QuizDotNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T05:17:50.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "QuizDotNet\\AppDBcontext.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\AppDBcontext.cs",
+              "RelativeToolTip": "QuizDotNet\\AppDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T05:16:52.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240425232641_testing.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\Migrations\\20240425232641_testing.cs",
+              "RelativeDocumentMoniker": "QuizDotNet\\Migrations\\20240425232641_testing.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\Migrations\\20240425232641_testing.cs",
+              "RelativeToolTip": "QuizDotNet\\Migrations\\20240425232641_testing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:26:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "QuizDotNet\\Program.cs",
+              "ToolTip": "C:\\Users\\jaafa\\source\\repos\\QuizDotNet\\QuizDotNet\\Program.cs",
+              "RelativeToolTip": "QuizDotNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T23:21:04.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

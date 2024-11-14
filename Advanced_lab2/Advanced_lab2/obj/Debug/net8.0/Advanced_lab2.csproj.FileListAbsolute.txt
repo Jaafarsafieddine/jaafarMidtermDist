@@ -1,0 +1,5 @@
+C:\Users\jaafa\source\repos\Advanced_lab2\Advanced_lab2\bin\Debug\net8.0\Advanced_lab2.dll
+C:\Users\jaafa\source\repos\Advanced_lab2\Advanced_lab2\obj\Debug\net8.0\Advanced_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaafa\source\repos\Advanced_lab2\Advanced_lab2\obj\Debug\net8.0\Advanced_lab2.AssemblyInfoInputs.cache
+C:\Users\jaafa\source\repos\Advanced_lab2\Advanced_lab2\obj\Debug\net8.0\Advanced_lab2.AssemblyInfo.cs
+C:\Users\jaafa\source\repos\Advanced_lab2\Advanced_lab2\obj\Debug\net8.0\Advanced_lab2.csproj.CoreCompileInputs.cache
