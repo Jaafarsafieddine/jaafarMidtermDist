@@ -19,13 +19,16 @@ jobs:
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '7.x'
+          dotnet-version: '7.x' # Ensure this matches your project's .NET version
+
+      - name: Restore dependencies
+        run: dotnet restore distruibted.sln
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release
+        run: dotnet build distruibted.sln --configuration Release
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+        run: dotnet publish distruibted.sln -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
@@ -62,4 +65,3 @@ jobs:
           app-name: 'safieddineApi'
           slot-name: 'Production'
           package: .
-          
