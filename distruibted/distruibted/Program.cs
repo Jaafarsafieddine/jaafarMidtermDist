@@ -24,7 +24,7 @@ app.MapControllers();
 // New Endpoint: Greeting API
 app.MapGet("/api/greeting", () =>
 {
-    return Results.Ok(new { Message = "Hello! Welcome to the enhanced Weather App Lassssst Time!" });
+    return Results.Ok(new { Message = "Hello! Welcome to the enhanced Weather selft hosted" });
 });
 
 // Existing Controllers Mapping
