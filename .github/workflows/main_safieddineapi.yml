@@ -1,10 +1,8 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
 trigger:
-- main
+- main # Triggers the pipeline on changes to the main branch
 
 pool:
-  name: SelfHostedPool # Replace with the name of your agent pool (e.g., SelfHostedPool)
+  name: SelfHostedPool # Use the name of your self-hosted agent pool
 
 variables:
   buildConfiguration: 'Release'
@@ -19,22 +17,26 @@ steps:
   displayName: 'Install .NET SDK'
   inputs:
     packageType: 'sdk'
-    version: '7.x' # Replace with the .NET version your project uses (e.g., 6.x, 7.x, etc.)
+    version: '8.x' # Replace with your project's .NET version
 
 # Step 3: Restore Dependencies
-- script: dotnet restore
+- script: |
+    dotnet restore
   displayName: 'Restore dependencies'
 
 # Step 4: Build the Project
-- script: dotnet build --configuration $(buildConfiguration)
+- script: |
+    dotnet build --configuration $(buildConfiguration)
   displayName: 'Build the project'
 
 # Step 5: Run Tests (Optional)
-- script: dotnet test --no-build --verbosity normal
+- script: |
+    dotnet test --no-build --verbosity normal
   displayName: 'Run tests'
 
 # Step 6: Publish Artifacts
-- script: dotnet publish -c $(buildConfiguration) -o $(Build.ArtifactStagingDirectory)
+- script: |
+    dotnet publish -c $(buildConfiguration) -o $(Build.ArtifactStagingDirectory)
   displayName: 'Publish the project'
 
 # Step 7: Publish Build Artifacts
@@ -43,4 +45,3 @@ steps:
   inputs:
     pathToPublish: $(Build.ArtifactStagingDirectory)
     artifactName: drop
-.
