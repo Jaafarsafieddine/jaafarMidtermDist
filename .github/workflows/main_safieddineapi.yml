@@ -3,65 +3,47 @@
 
 name: Build and deploy ASP.Net Core app to Azure Web App - safieddineApi
 
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+trigger:
+- main
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+pool:
+  name: SelfHostedPool # Replace with the name of your agent pool (e.g., SelfHostedPool)
 
-    steps:
-      - uses: actions/checkout@v4
+variables:
+  buildConfiguration: 'Release'
 
-      - name: Set up .NET Core
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: '8.x' # Ensure this matches your project's .NET version
+steps:
+# Step 1: Checkout the Code
+- task: Checkout@1
+  displayName: 'Checkout source code'
 
-      - name: Restore dependencies
-        run: dotnet restore distruibted.sln
+# Step 2: Set Up .NET Core
+- task: UseDotNet@2
+  displayName: 'Install .NET SDK'
+  inputs:
+    packageType: 'sdk'
+    version: '7.x' # Replace with the .NET version your project uses (e.g., 6.x, 7.x, etc.)
 
-      - name: Build with dotnet
-        run: dotnet build distruibted.sln --configuration Release
+# Step 3: Restore Dependencies
+- script: dotnet restore
+  displayName: 'Restore dependencies'
 
-      - name: dotnet publish
-        run: dotnet publish distruibted.sln -c Release -o ${{env.DOTNET_ROOT}}/myapp
+# Step 4: Build the Project
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'Build the project'
 
-      - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v4
-        with:
-          name: .net-app
-          path: ${{env.DOTNET_ROOT}}/myapp
+# Step 5: Run Tests (Optional)
+- script: dotnet test --no-build --verbosity normal
+  displayName: 'Run tests'
 
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-    environment:
-      name: 'Production'
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
-    permissions:
-      id-token: write #This is required for requesting the JWT
+# Step 6: Publish Artifacts
+- script: dotnet publish -c $(buildConfiguration) -o $(Build.ArtifactStagingDirectory)
+  displayName: 'Publish the project'
 
-    steps:
-      - name: Download artifact from build job
-        uses: actions/download-artifact@v4
-        with:
-          name: .net-app
-      
-      - name: Login to Azure
-        uses: azure/login@v2
-        with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_5837E3AF9E2C44A3B7A14C5DC9F82D3C }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_D7AE7F6768F845E297818A287C424C1A }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_CF1FB589931D41F489163E6B0C26F896 }}
-
-      - name: Deploy to Azure Web App
-        id: deploy-to-webapp
-        uses: azure/webapps-deploy@v3
-        with:
-          app-name: 'safieddineApi'
-          slot-name: 'Production'
-          package: .
+# Step 7: Publish Build Artifacts
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish Build Artifacts'
+  inputs:
+    pathToPublish: $(Build.ArtifactStagingDirectory)
+    artifactName: drop
+.
